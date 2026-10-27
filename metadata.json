@@ -1,0 +1,6 @@
+{
+  "name": "Central de Atendimento Vitta",
+  "description": "Interface de chat idêntica ao Instagram Direct integrada com a IA da Vitta Comunicação.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
